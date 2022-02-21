@@ -1,0 +1,99 @@
+0: 25	=> Pump 2 completed without interruption.
+the tank is filled to  20
+1: 25	=> Machine 2 completed without interruption.
+the tank is filled to  15
+Machine 2 product 1 wheel. Number of wheel : 1
+2: 26	=> Pump 2 completed without interruption.
+the tank is filled to  35
+3: 26	=> Machine 1 completed without interruption.
+the tank is filled to  10
+Machine 1 product 1 motor. Number of motor : 1
+4: 26	=> Machine 2 completed without interruption.
+the tank is filled to  5
+Machine 2 product 1 wheel. Number of wheel : 2
+5: 26	=> Machine 2 completed without interruption.
+the tank is filled to  0
+Machine 2 product 1 wheel. Number of wheel : 3
+6: 26	=> Pump 2 completed without interruption.
+the tank is filled to  20
+7: 26	=> Machine 2 completed without interruption.
+the tank is filled to  15
+Machine 2 product 1 wheel. Number of wheel : 4
+8: 26	=> Machine 2 completed without interruption.
+the tank is filled to  10
+Machine 2 product 1 wheel. Number of wheel : 5
+9: 26	=> Pump 2 completed without interruption.
+the tank is filled to  30
+10: 26	=> Machine 1 completed without interruption.
+the tank is filled to  5
+Machine 1 product 1 motor. Number of motor : 2
+11: 26	=> Machine 2 completed without interruption.
+the tank is filled to  0
+Machine 2 product 1 wheel. Number of wheel : 6
+12: 26	=> Pump 2 completed without interruption.
+the tank is filled to  20
+13: 26	=> Machine 2 completed without interruption.
+the tank is filled to  15
+Machine 2 product 1 wheel. Number of wheel : 7
+14: 26	=> Machine 2 completed without interruption.
+the tank is filled to  10
+Machine 2 product 1 wheel. Number of wheel : 8
+15: 26	=> Machine 2 completed without interruption.
+the tank is filled to  5
+Machine 2 product 1 wheel. Number of wheel : 9
+16: 26	=> Pump 2 completed without interruption.
+the tank is filled to  25
+17: 26	=> Machine 1 completed without interruption.
+the tank is filled to  0
+Machine 1 product 1 motor. Number of motor : 3
+18: 26	=> Pump 2 completed without interruption.
+the tank is filled to  20
+19: 26	=> Machine 2 completed without interruption.
+the tank is filled to  15
+Machine 2 product 1 wheel. Number of wheel : 10
+20: 27	=> Machine 2 completed without interruption.
+the tank is filled to  10
+Machine 2 product 1 wheel. Number of wheel : 11
+21: 27	=> Machine 2 completed without interruption.
+the tank is filled to  5
+Machine 2 product 1 wheel. Number of wheel : 12
+22: 27	=> Machine 2 completed without interruption.
+the tank is filled to  0
+Machine 2 product 1 wheel. Number of wheel : 13
+23: 27	=> Pump 2 completed without interruption.
+the tank is filled to  20
+24: 27	=> Pump 2 completed without interruption.
+the tank is filled to  40
+25: 27	=> Machine 1 completed without interruption.
+the tank is filled to  15
+Machine 1 product 1 motor. Number of motor : 4
+26: 27	=> Machine 2 completed without interruption.
+the tank is filled to  10
+Machine 2 product 1 wheel. Number of wheel : 14
+27: 27	=> Machine 2 completed without interruption.
+the tank is filled to  5
+Machine 2 product 1 wheel. Number of wheel : 15
+28: 27	=> Machine 2 completed without interruption.
+the tank is filled to  0
+Machine 2 product 1 wheel. Number of wheel : 16
+29: 27	=> Pump 2 completed without interruption.
+the tank is filled to  20
+30: 27	=> Machine 2 completed without interruption.
+the tank is filled to  15
+Machine 2 product 1 wheel. Number of wheel : 17
+31: 27	=> Pump 2 completed without interruption.
+the tank is filled to  35
+32: 27	=> Machine 1 completed without interruption.
+the tank is filled to  10
+Machine 1 product 1 motor. Number of motor : 5
+33: 27	=> Machine 2 completed without interruption.
+the tank is filled to  5
+Machine 2 product 1 wheel. Number of wheel : 18
+34: 27	=> Machine 2 completed without interruption.
+the tank is filled to  0
+Machine 2 product 1 wheel. Number of wheel : 19
+35: 27	=> Pump 2 completed without interruption.
+the tank is filled to  20
+36: 27	=> Machine 2 completed without interruption.
+the tank is filled to  15
+Machine 2 product 1 wheel. Number of wheel : 20
