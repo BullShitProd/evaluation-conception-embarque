@@ -27,6 +27,8 @@ Pour écrire notre algorythme, nous allons supposé plusieurs choses :
 ## Programme Python
 
 Le programme est le Scheduler.py.
+Sur la branche main, vous retrouverez le Scheduler sans prendre en compte la période. 
+Sur la branche periode, vous retrouvez le Scheduler en prenant en compte la période. 
 
 ## Résultat 
 

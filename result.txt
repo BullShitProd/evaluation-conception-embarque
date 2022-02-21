@@ -1,99 +1,169 @@
-0: 25	=> Pump 2 completed without interruption.
+0	Idle
+1: 40	=> Pump 2 completed without interruption.
 the tank is filled to  20
-1: 25	=> Machine 2 completed without interruption.
+2: 40	=> Machine 2 completed without interruption.
 the tank is filled to  15
 Machine 2 product 1 wheel. Number of wheel : 1
-2: 26	=> Pump 2 completed without interruption.
-the tank is filled to  35
-3: 26	=> Machine 1 completed without interruption.
+	Task Pump 1\ŧFAILED deadline.	50.0% done.
+	Task Machine 1\ŧFAILED deadline.	20.0% done.
+3: 40	=> Machine 2 completed without interruption.
 the tank is filled to  10
-Machine 1 product 1 motor. Number of motor : 1
-4: 26	=> Machine 2 completed without interruption.
-the tank is filled to  5
 Machine 2 product 1 wheel. Number of wheel : 2
-5: 26	=> Machine 2 completed without interruption.
-the tank is filled to  0
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+4: 41	=> Machine 2 completed without interruption.
+the tank is filled to  5
 Machine 2 product 1 wheel. Number of wheel : 3
-6: 26	=> Pump 2 completed without interruption.
-the tank is filled to  20
-7: 26	=> Machine 2 completed without interruption.
-the tank is filled to  15
+5	Idle
+6	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+7: 41	=> Machine 2 completed without interruption.
+the tank is filled to  0
 Machine 2 product 1 wheel. Number of wheel : 4
-8: 26	=> Machine 2 completed without interruption.
-the tank is filled to  10
+8: 41	=> Pump 2 completed without interruption.
+the tank is filled to  20
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+9: 41	=> Machine 2 completed without interruption.
+the tank is filled to  15
 Machine 2 product 1 wheel. Number of wheel : 5
-9: 26	=> Pump 2 completed without interruption.
-the tank is filled to  30
-10: 26	=> Machine 1 completed without interruption.
-the tank is filled to  5
-Machine 1 product 1 motor. Number of motor : 2
-11: 26	=> Machine 2 completed without interruption.
-the tank is filled to  0
+10	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+11: 41	=> Machine 2 completed without interruption.
+the tank is filled to  10
 Machine 2 product 1 wheel. Number of wheel : 6
-12: 26	=> Pump 2 completed without interruption.
-the tank is filled to  20
-13: 26	=> Machine 2 completed without interruption.
-the tank is filled to  15
+12	Idle
+13	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+14: 41	=> Machine 2 completed without interruption.
+the tank is filled to  5
 Machine 2 product 1 wheel. Number of wheel : 7
-14: 26	=> Machine 2 completed without interruption.
-the tank is filled to  10
-Machine 2 product 1 wheel. Number of wheel : 8
-15: 26	=> Machine 2 completed without interruption.
-the tank is filled to  5
-Machine 2 product 1 wheel. Number of wheel : 9
-16: 26	=> Pump 2 completed without interruption.
+15: 41	=> Pump 2 completed without interruption.
 the tank is filled to  25
-17: 26	=> Machine 1 completed without interruption.
-the tank is filled to  0
-Machine 1 product 1 motor. Number of motor : 3
-18: 26	=> Pump 2 completed without interruption.
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+16: 41	=> Machine 2 completed without interruption.
 the tank is filled to  20
-19: 26	=> Machine 2 completed without interruption.
+Machine 2 product 1 wheel. Number of wheel : 8
+17	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+18: 41	=> Machine 2 completed without interruption.
 the tank is filled to  15
+Machine 2 product 1 wheel. Number of wheel : 9
+19	Idle
+20	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+21: 41	=> Machine 2 completed without interruption.
+the tank is filled to  10
 Machine 2 product 1 wheel. Number of wheel : 10
-20: 27	=> Machine 2 completed without interruption.
-the tank is filled to  10
+22: 41	=> Pump 2 completed without interruption.
+the tank is filled to  30
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+23: 41	=> Machine 2 completed without interruption.
+the tank is filled to  25
 Machine 2 product 1 wheel. Number of wheel : 11
-21: 27	=> Machine 2 completed without interruption.
-the tank is filled to  5
+24: 41	=> Machine 1 completed without interruption.
+the tank is filled to  0
+Machine 1 product 1 motor. Number of motor : 1
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+25	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 2\ŧFAILED deadline.	33.333333333333336% done.
+26: 41	=> Pump 2 completed without interruption.
+the tank is filled to  20
+27: 41	=> Machine 2 completed without interruption.
+the tank is filled to  15
 Machine 2 product 1 wheel. Number of wheel : 12
-22: 27	=> Machine 2 completed without interruption.
-the tank is filled to  0
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+28: 41	=> Machine 2 completed without interruption.
+the tank is filled to  10
 Machine 2 product 1 wheel. Number of wheel : 13
-23: 27	=> Pump 2 completed without interruption.
-the tank is filled to  20
-24: 27	=> Pump 2 completed without interruption.
-the tank is filled to  40
-25: 27	=> Machine 1 completed without interruption.
-the tank is filled to  15
-Machine 1 product 1 motor. Number of motor : 4
-26: 27	=> Machine 2 completed without interruption.
-the tank is filled to  10
-Machine 2 product 1 wheel. Number of wheel : 14
-27: 27	=> Machine 2 completed without interruption.
+29	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+30: 42	=> Machine 2 completed without interruption.
 the tank is filled to  5
-Machine 2 product 1 wheel. Number of wheel : 15
-28: 27	=> Machine 2 completed without interruption.
+Machine 2 product 1 wheel. Number of wheel : 14
+31	Idle
+32	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+33: 42	=> Machine 2 completed without interruption.
 the tank is filled to  0
-Machine 2 product 1 wheel. Number of wheel : 16
-29: 27	=> Pump 2 completed without interruption.
+Machine 2 product 1 wheel. Number of wheel : 15
+34: 42	=> Pump 2 completed without interruption.
 the tank is filled to  20
-30: 27	=> Machine 2 completed without interruption.
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+35: 42	=> Machine 2 completed without interruption.
 the tank is filled to  15
-Machine 2 product 1 wheel. Number of wheel : 17
-31: 27	=> Pump 2 completed without interruption.
-the tank is filled to  35
-32: 27	=> Machine 1 completed without interruption.
+Machine 2 product 1 wheel. Number of wheel : 16
+36	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+37: 42	=> Machine 2 completed without interruption.
 the tank is filled to  10
-Machine 1 product 1 motor. Number of motor : 5
-33: 27	=> Machine 2 completed without interruption.
+Machine 2 product 1 wheel. Number of wheel : 17
+38	Idle
+39	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+40: 42	=> Machine 2 completed without interruption.
 the tank is filled to  5
 Machine 2 product 1 wheel. Number of wheel : 18
-34: 27	=> Machine 2 completed without interruption.
-the tank is filled to  0
-Machine 2 product 1 wheel. Number of wheel : 19
-35: 27	=> Pump 2 completed without interruption.
+41: 42	=> Pump 2 completed without interruption.
+the tank is filled to  25
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+42: 42	=> Machine 2 completed without interruption.
 the tank is filled to  20
-36: 27	=> Machine 2 completed without interruption.
+Machine 2 product 1 wheel. Number of wheel : 19
+43	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+44: 42	=> Machine 2 completed without interruption.
 the tank is filled to  15
 Machine 2 product 1 wheel. Number of wheel : 20
+45	Idle
+46	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+47: 42	=> Machine 2 completed without interruption.
+the tank is filled to  10
+Machine 2 product 1 wheel. Number of wheel : 21
+48: 42	=> Pump 2 completed without interruption.
+the tank is filled to  30
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+49: 42	=> Machine 2 completed without interruption.
+the tank is filled to  25
+Machine 2 product 1 wheel. Number of wheel : 22
+50: 42	=> Machine 1 completed without interruption.
+the tank is filled to  0
+Machine 1 product 1 motor. Number of motor : 2
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+51	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 2\ŧFAILED deadline.	0.0% done.
+52: 42	=> Pump 2 completed without interruption.
+the tank is filled to  20
+53: 42	=> Machine 2 completed without interruption.
+the tank is filled to  15
+Machine 2 product 1 wheel. Number of wheel : 23
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.
+54: 42	=> Machine 2 completed without interruption.
+the tank is filled to  10
+Machine 2 product 1 wheel. Number of wheel : 24
+55	Idle
+	Task Pump 1\ŧFAILED deadline.	0.0% done.
+	Task Machine 1\ŧFAILED deadline.	0.0% done.

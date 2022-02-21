@@ -124,7 +124,7 @@ if __name__ == "__main__":
 
             current_task_need_to_run = current_task.need_to_run()
 
-            if current_task.PRODUCE_OIL > 0 and tank + current_task.PRODUCE_OIL <= 50:
+            if current_task.PRODUCE_OIL > 0 and tank + current_task.PRODUCE_OIL <= 50 and current_task_need_to_run:
                 if task_pump is None:
                     task_pump = current_task
                     task_to_run = current_task
@@ -132,7 +132,7 @@ if __name__ == "__main__":
                     task_to_run = current_task
 
 
-            if current_task.NEED_OIL > 0 and tank - current_task.NEED_OIL >= 0 and current_task.compare_production():
+            if current_task.NEED_OIL > 0 and tank - current_task.NEED_OIL >= 0 and current_task_need_to_run:
                 task_to_run = current_task
 
 
