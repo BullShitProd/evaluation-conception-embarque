@@ -27,6 +27,8 @@ Pour écrire notre algorythme, nous allons supposé plusieurs choses :
 ## Programme Python
 
 Le programme est le Scheduler.py.
+Sur la branche periode, vous retrouvez le Scheduler en prenant en compte la période. Cet partie pourrait etre amilioré notamment
+car parfois aucun tache n'est éxécuté. 
 
 ## Résultat 
 
